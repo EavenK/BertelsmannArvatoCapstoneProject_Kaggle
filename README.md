@@ -36,11 +36,11 @@ The data were not 'clean' and required tremendous amount of data wrangling effor
 ## Results<a name="results"></a>
 
 * Part 1 Customer Segmentation Report
- -   Begin the project by using unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
+        >Begin the project by using unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
 * Part 2 Supervised Learning Model
- -   Use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign. 
+        >Use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign. 
 * Part 3 Kaggle Competition
- -   Once chosen a model, use it to make predictions on the campaign data as part of a Kaggle Competition. Rank the individuals by how likely they are to convert to being a customer
+        >Once chosen a model, use it to make predictions on the campaign data as part of a Kaggle Competition. Rank the individuals by how likely they are to convert to being a customer
 
 There is a blog post available [here](https://medium.com/@eavenkhaw/write-a-data-science-blog-post-b574e36b5c19).
 
