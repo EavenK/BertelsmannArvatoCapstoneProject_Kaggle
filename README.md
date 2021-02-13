@@ -4,8 +4,8 @@
 
 1. [Description](#description)
 2. [Dependencies](#dependencies)
-3. [Author](#author)
-4. [Results](#results)
+3. [Results](#results)
+4. [Author](#author)
 5. [Acknowledgement](#acknowledgement)
 
 
@@ -53,4 +53,4 @@ There is a blog post available [here](https://medium.com/@eavenkhaw/write-a-data
 ## Acknowledgements<a name="acknowledgement"></a>
 
 * [Udacity](https://www.udacity.com/) as hosts of the Data Science Nanodegree Program
-* [Arvato](https://www.arvato.us/) , subsidiary of [Bertelsmann](https://www.bertelsmann.com/#st-1) for providing the datasets 
+* [Arvato](https://www.arvato.us/), subsidiary of [Bertelsmann](https://www.bertelsmann.com/#st-1) for providing the datasets 
