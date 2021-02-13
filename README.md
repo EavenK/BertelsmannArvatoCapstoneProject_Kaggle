@@ -42,7 +42,7 @@ The data were not 'clean' and required tremendous amount of data wrangling effor
 * Part 3 Kaggle Competition
 > Once chosen a model, use it to make predictions on the campaign data as part of a Kaggle Competition. Rank the individuals by how likely they are to convert to being a customer
 
-There is a blog post available [here](https://medium.com/@eavenkhaw/write-a-data-science-blog-post-b574e36b5c19).
+There is a blog post available [here](https://eavenkhaw.medium.com/create-a-customer-segmentation-report-for-arvato-financial-services-129f5ceaf14d).
 
 
 ## Author<a name="authors"></a>
