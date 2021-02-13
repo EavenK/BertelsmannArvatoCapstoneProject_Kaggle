@@ -26,21 +26,21 @@ The data were not 'clean' and required tremendous amount of data wrangling effor
 * Machine Learning Libraries: NumPy, SciPy, Pandas, Scikit-Learn, xgBoost, LightGBM, CatBoost
 * Model Loading and Saving: Pickle
 
-#pip install jupyter-tensorboard==0.1.10
-#pip install scikit-learn==0.22.2
-#pip install lightgbm==3.1.1
-#pip install xgboost==1.0.2
-#pip3 install catboost==0.23.2
-#pip install "scikit_optimize==0.7.4" 
+ - pip install jupyter-tensorboard==0.1.10
+ - pip install scikit-learn==0.22.2
+ - pip install lightgbm==3.1.1
+ - pip install xgboost==1.0.2
+ - pip3 install catboost==0.23.2
+ - pip install "scikit_optimize==0.7.4" 
 
 ## Results<a name="results"></a>
 
 * Part 1 Customer Segmentation Report
-  Begin the project by using unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
+ -   Begin the project by using unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
 * Part 2 Supervised Learning Model
-  Use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign. 
+ -   Use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign. 
 * Part 3 Kaggle Competition
-  Once chosen a model, use it to make predictions on the campaign data as part of a Kaggle Competition. Rank the individuals by how likely they are to convert to being a customer
+ -   Once chosen a model, use it to make predictions on the campaign data as part of a Kaggle Competition. Rank the individuals by how likely they are to convert to being a customer
 
 There is a blog post available [here](https://medium.com/@eavenkhaw/write-a-data-science-blog-post-b574e36b5c19).
 
@@ -53,4 +53,4 @@ There is a blog post available [here](https://medium.com/@eavenkhaw/write-a-data
 ## Acknowledgements<a name="acknowledgement"></a>
 
 * [Udacity](https://www.udacity.com/) as hosts of the Data Science Nanodegree Program
-* [Arvato])(https://www.arvato.us/), subsidiary of [Bertelsmann](https://www.bertelsmann.com/#st-1) for providing the datasets 
+* [Arvato](https://www.arvato.us/) , subsidiary of [Bertelsmann](https://www.bertelsmann.com/#st-1) for providing the datasets 
