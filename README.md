@@ -13,12 +13,12 @@
 
 ## Description <a name="description"></a>
 
-This Capstone Project is part of the Data Science Nanodegree Program by Udacity in collaboration with [Bertelsmann Arvato]. The datasets consist of 366 features that described approximately 1 million individuals from the German population. These datasets are not available here due to confidentiality.
+This Capstone Project is part of the Data Science Nanodegree Program by Udacity in collaboration with [Bertelsmann Arvato]. The datasets consist of 366 features that described approximately 1 million individuals from the German population. 
 The data were not 'clean' and required tremendous amount of data wrangling efforts. The aim of the project is to analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. We will use unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Then apply what we have learned on a third dataset with demographics information for targets of a marketing campaign for the company, and train a model to predict which individuals are most likely to convert into becoming customers for the company.
 
 ## Files <a name="files"></a>
 
-There are 4 datafiles associated with this project:
+There are 4 datafiles associated with this project: 
 * Udacity_AZDIAS_052018.csv - Demographics data for the general population of Germany (891211 x 366).
 * Udacity_CUSTOMERS_052018.csv - Demographics data for customers of the German mail-order company (191652 x 369).
 * Udacity_MAILOUT_052018_TRAIN.csv - Demographics data for individuals who were targets of a marketing campaign (42982 x 367).
@@ -28,6 +28,8 @@ There are additional 2 metadata files provided and 1 manually created.
 * DIAS Information Levels - Attributes 2017.xlsx - is a top-level list of attributes and descriptions, organized by informational category.
 * DIAS Attributes - Values 2017.xlsx - is a detailed mapping of data values for each feature in alphabetical order.
 * feat_info.csv - is a feature summary file manually created using the above 2 files together with a previous subset feature_info.csv from 1st semester mapping all the attributes with information level, type & missing_or_unknown information to assist in our analysis.
+
+These datasets are not available here due to confidentiality.
 
 ## Motivation <a name="motivation"></a>
 The reason I choose this Capstone project provided by Bertelsmann Arvato is because
