@@ -55,9 +55,9 @@ The reason I choose this Capstone project provided by Bertelsmann Arvato is beca
 > It was necessary to apply CRISP-DM (Cross-Industry Standard Process for Data Mining) to the project. Data Understanding, Data Preparation, Modelling and Evaluation had to be developed from scratch.
 * Part 2 Customer Segmentation Report
  > The project used unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments. Unsupervised learning techniques namely PCA and Clustering with KMeans were applied to distinguish groups of individuals that best describe the core customer base of the mail-order company.
-* Part 2 Supervised Learning Model
+* Part 3 Supervised Learning Model
 > Used the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign. The base performance of various classifiers were determined. CatBoost was being picked and with the help of BayesSearchCV, the model was further optimized and tuned (using stratified K-Fold cross-validation) and its performance was evaluated via ROC AUC. A short analysis of the features importance is being performed. The best model is then used to predict the testing dataset where individuals of a marketing campaign are more likely being convert into company's customer.
-* Part 3 Kaggle Competition
+* Part 4 Kaggle Competition
 > Once chosen a model, use it to make predictions on the campaign data as part of a Kaggle Competition. Result was submitted to obtain a kaggle score which is roc_auc score on the testing data. Through Kaggle score, position of the participant in the leaderboard was determined.
 
 For the full analysis, please visit my blog post available [here](https://eavenkhaw.medium.com/create-a-customer-segmentation-report-for-arvato-financial-services-129f5ceaf14d).
