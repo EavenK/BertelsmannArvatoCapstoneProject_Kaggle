@@ -60,7 +60,7 @@ The reason I choose this Capstone project provided by Bertelsmann Arvato is beca
 * Part 4 Kaggle Competition
 > Once chosen a model, use it to make predictions on the campaign data as part of a Kaggle Competition. Result was submitted to obtain a kaggle score which is roc_auc score on the testing data. Through Kaggle score, position of the participant in the leaderboard was determined.
 
-For the full analysis, please visit my blog post available [here](https://eavenkhaw.medium.com/create-a-customer-segmentation-report-for-arvato-financial-services-129f5ceaf14d).
+For the full analysis, please visit my blog post available here [Create a Customer Segmentation Report for Arvato Financial Services](https://eavenkhaw.medium.com/create-a-customer-segmentation-report-for-arvato-financial-services-129f5ceaf14d).
 
 
 ## Author<a name="authors"></a>
